@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(26, 181, 181);
+}
+
+
+.carousel slide {
+    background-color: rgb(50, 50, 50);
+}
+
+.d-block {
+    height: 600px;
+}
+
+.dropdown {
+    margin-top: 50px;
+    margin-left: 685px;
+}
+
+.align-self-start {
+    border: 1px solid #ff12fb;
+}
+
+.align-self-center {
+    margin-top: 20px;
+    border: 1px solid #ff12fb;
+}
+
+.align-self-end {
+    margin-top: 40px;
+    border: 1px solid #ff12fb;
+}
